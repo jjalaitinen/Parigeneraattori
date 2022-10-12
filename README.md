@@ -1,5 +1,11 @@
 # Parigeneraattori
-Opetustyötä varten tehty nykyaikainen ja suomenkielinen tapa jakaa lista nimiä pareiksi.
+Opetustyötä varten tehty nykyaikainen ja suomenkielinen tapa jakaa lista nimiä pareiksi. <br/><br/>
+<p align="center">
+    <img src="https://github.com/jjalaitinen/Parigeneraattori/blob/main/kayttoliittyma.PNG" width="600">
+<p>
+<p align = "center">
+  Kuvankaappaus ohjelmasta
+</p>
 
 ## Yleistä
 Ryhmän jakaminen pareihin on iso osa opetustyötä. Ottamatta kantaa parityöskentelyn hyötyihin tai haittoihin opettajat usein teettävät paritöitä. Pareihin jaetaan myös usein satunnaisesti. Oman alani (tietotekniikan aineopettaja) tulevana asiantuntijana myssy + paperilappu -kombo on mielestäni parhaat päivänsä nähnyt. Tätä varten päätin koostaa kasaan oman tapani jakaa ryhmän pareihin, "randomisti".
@@ -8,7 +14,7 @@ Satunnaisuus on tietoteknisessä maailmassa kuitenkin hatara käsite [MIT](https
 
 
 ## Käyttö
-Ohjelma on täysin selainpohjainen, joten käyttö onnistuu kaikilla laitteilla. Projekti on myös pyritty Bootstrapin avulla luomaan mahdollisimman saavutettavaksi ja responsiiviseksi. Ohjelma skaalautuu siis laitteen mukaan oikean kokoiseksi ja on fonteiltaan, sekä ulkoasultaan mahdollisimman selkeä. Tällä hetkellä projekti pyörii koulun palvelimella ja osoite, jossa ohjelmaa pääsee käyttämään on: http://users.jyu.fi/~laitjjxz/pairing/ 
+Ohjelma on täysin selainpohjainen, joten käyttö onnistuu kaikilla laitteilla. Projekti on myös pyritty Bootstrapin avulla luomaan mahdollisimman saavutettavaksi ja responsiiviseksi. Ohjelma skaalautuu siis laitteen mukaan oikean kokoiseksi ja on fonteiltaan, sekä ulkoasultaan mahdollisimman selkeä. Tällä hetkellä projekti pyörii koulun palvelimella ja osoite, jossa ohjelmaa pääsee käyttämään on: http://users.jyu.fi/~laitjjxz/parigeneraattori/ 
 
 ## Käytetyt teknologiat
 Ohjelma on kirjoitettu hyödyntämällä seuraavia:
@@ -28,7 +34,7 @@ Ohjelma on kirjoitettu hyödyntämällä seuraavia:
 
 
 ## Lisenssi
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br/>
 Projekti on [MIT](https://opensource.org/licenses/MIT) -lisenssin alaisuudessa. Toisin sanoen täysin "vapaata riistaa".
 
 ## UKK
