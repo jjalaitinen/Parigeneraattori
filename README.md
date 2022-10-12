@@ -19,6 +19,7 @@ Ohjelma on kirjoitettu hyödyntämällä seuraavia:
 ## Roadmap
 * [x] Toimiva sovellus
 * [x] Bootstrapin lisääminen -> responsiivisuus ja tyylit
+* [x] Bugien korjaaminen (tyhjät rivit jätetään huomiotta)
 * [ ] Linkki sorsakoodiin
 * [ ] Ohjelman siirto herokuappiin
 * [ ] Darkmode
