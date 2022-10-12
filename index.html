@@ -3,6 +3,10 @@
   <head>
     <script src="toiminta.js"></script>
     <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
@@ -10,11 +14,30 @@
       crossorigin="anonymous"
     />
     <title>Parigeneraattori</title>
+    <style>
+      @media screen and (max-width: 540px) {
+      .form-control::-webkit-input-placeholder {
+        /* WebKit browsers */
+        color: transparent;
+      }
+      .form-control:-moz-placeholder {
+        /* Mozilla Firefox 4 to 18 */
+        color: transparent;
+      }
+      .form-control::-moz-placeholder {
+        /* Mozilla Firefox 19+ */
+        color: transparent;
+      }
+      .form-control :-ms-input-placeholder {
+        /* Internet Explorer 10+ */
+        color: transparent;
+      }
+    </style>
   </head>
   <body>
     <div>
       <div class="container">
-        <h1 class="text-center">Parigeneraattori</h1>
+        <h1 class="text-center mt-3">Parigeneraattori</h1>
         <div>
           <p class="text-center">
             Lisää "paritettavat" nimet alla olevaan tekstilaatikkoon
@@ -27,7 +50,7 @@
             rows="10"
             class="form-control"
             placeholder="Kasper&#10;Jesper&#10;Joonatan&#10;..."
-            style="width: 50%"
+            style="width: 60%"
           ></textarea>
         </div>
         <div class="text-center mb-3">
